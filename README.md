@@ -2,6 +2,12 @@
 
 I am done this project as a Data Scientist Intern at Intellipaat Software Solutions Pvt. Ltd.
 
+Technology:- Data Science
+
+Domain:- Consumer Behavior for Online Viedo applications
+
+Tools:- Python (Jupiter Notebook)
+
 Problem Statement 1:- Customer Behaviour and it’s prediction lies at the core of every Business Model. From Stock Exchange, e Commerce and Automobile to even Presidential Elections, predictions serve a great purpose. Most of these predictions are based on the data available about a person’s activity either online or in person.
 
 Problem Statement 2:- Recommendation Engines are the much needed manifestations of the desired Predictability of User Activity. Recommendation Engines move one step further and not only give information but put forth strategies to further increase users interaction with the platform.
