@@ -18,3 +18,5 @@ Project Objective:-
 1. Find out the list of most popular and liked genre
 2. Create Model that finds the best suited Movie for one user in every genre.
 3. Find what Genre Movies have received the best and worst ratings based on User Rating.
+
+Conclusion of Project:- With the advances of exclusive campaigns and cooperation agreements with several institutions and companies, Netflix has the world at its feet. Regarding Netflix’s digital campaigns, we can say that they meet the members of the target audience wherever they live and whenever they want. Netflix collaborates with a great number of companies and applications such as banks, Snapchat, and Instagram with multi-channel campaigns.
