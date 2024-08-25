@@ -1,20 +1,28 @@
 # Capstone-Project-Netflix-
 
-Tools:- Python (Jupiter Notebook)
+Overview:- This capstone project focuses on analyzing Netflix movie genres to gain insights into user preferences and ratings. The objectives include identifying the most popular and liked genres, developing a recommendation model to suggest the best-suited movie for a user in each genre, and determining which genres have received the best and worst ratings based on user feedback.
 
-In this project, Problem statements are:-
+Key Tasks:-
 
-1. Customer Behaviour and it’s prediction lies at the core of every Business Model. From Stock Exchange, e Commerce and Automobile to even Presidential Elections, predictions serve a great purpose. Most of these predictions are based on the data available about a person’s activity either online or in person.
+1. Genre Popularity and Preference Analysis:- Analyzed Netflix movie data to compile a list of the most popular and liked genres. This involved assessing user interactions, viewership statistics, and rating patterns.
 
-2. Recommendation Engines are the much needed manifestations of the desired Predictability of User Activity. Recommendation Engines move one step further and not only give 
-information but put forth strategies to further increase users interaction with the platform.
+2. Recommendation Model Development:- Built a machine learning model that recommends the most suitable movie for a user within each genre. The model considers user history, genre preferences, and ratings to provide personalized movie suggestions.
 
-Dataset Information:-
+3. Genre Rating Evaluation:- Conducted an analysis to identify which genres have received the highest and lowest user ratings. This helped in understanding user sentiment and preferences across different genres.
 
-1. ID Contains the separate keys for customer and movies.
-2. Rating A section contains the user ratings for all the movies.
-3. Genre Highlights the category of the movie.
-4. Movie Name Name of the movie with respect to the movie id.
+Technologies Used:-
+
+1. Jupyter Notebook
+2. Python (Pandas, NumPy, Scikit-learn, etc.)
+3. Data Visualization Tools (Matplotlib, Seaborn)
+4. Machine Learning Algorithms
+
+Skills Demonstrated:-
+
+1. Data Analysis and Visualization
+2. Machine Learning Model Development
+3. Recommendation Systems
+4. Sentiment Analysis and User Preference Evaluation
 
 Objective:-
 
